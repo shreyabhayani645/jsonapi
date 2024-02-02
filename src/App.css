@@ -1,0 +1,41 @@
+.bg-body-black{
+  background-color:black !important;
+}
+.nav-link
+{
+  color: white !important;
+}
+a
+{
+  text-decoration: none !important;
+  color: white !important;
+}
+.id
+{
+  text-align: center;
+  font-size: 24px;
+  font-weight: 800;
+}
+.card_img
+{
+  height: 250px;
+  width: 100px;
+}
+.grid
+{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  background-color: black;
+}
+th
+{
+  border-right: 1px solid #ccc;
+}
+.table
+{
+  border-bottom: none;
+}
+li
+{
+  list-style: none;
+}
